@@ -1,0 +1,3 @@
+advertisement_24470.jpg 0.30882352590560913
+abstract_954303.jpg 0.5441176295280457
+architecture_339269.jpg 0.75
