@@ -1,5 +1,5 @@
 \# Based on interpretable perception-driven image complexity prediction and heatmap generation algorithm
-This repository provides the official code implementation for the paper **"Interpretable Perception-Driven Image Complexity Prediction and Heatmap Generation"** (基于可解释的感知驱动图像复杂度预测及热力图生成算法). 
+This repository provides the official code implementation for the paper **"Perception-Driven Prediction of Image Complexity and Interpretable Heatmap"** (感知驱动的图像复杂度与可解释热力图预测). 
 
 The code realizes image complexity prediction with interpretability and heatmap generation, which can effectively reflect the key regions contributing to image complexity perception.
 
