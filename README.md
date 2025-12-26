@@ -40,5 +40,5 @@ python test.py
 '
 The test script will:
 - Load the pre-trained/trained model parameters.
-- Evaluate the model performance on the IC9600 test set (output metrics such as MAE, RMSE for complexity prediction).
+- Evaluate the model performance on the IC9600 test set (output metrics such as RMAE, RMSE for complexity prediction).
 - Generate interpretable heatmaps for test set images, saving them to the specified directory
